@@ -21,7 +21,7 @@ Prepare a fresh Linux environment for git operations over SSH (port 443).
 
 ## Quick start
 ```bash
-bash git/skills/setup/scripts/git-setup.sh
+bash git/.codex/skills/setup/scripts/git-setup.sh
 ```
 
 ## Behavior
